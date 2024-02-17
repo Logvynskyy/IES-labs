@@ -1,0 +1,36 @@
+1708197093: mosquitto version 2.0.18 starting
+1708197093: Config loaded from /mosquitto/config/mosquitto.conf.
+1708197093: Opening ipv4 listen socket on port 1883.
+1708197093: Opening ipv6 listen socket on port 1883.
+1708197093: mosquitto version 2.0.18 running
+1708197094: New connection from 172.18.0.1:36954 on port 1883.
+1708197094: New client connected from 172.18.0.1:36954 as mqtt-explorer-d16bc5a1 (p2, c1, k60).
+1708197094: New connection from 172.18.0.3:40641 on port 1883.
+1708197094: New client connected from 172.18.0.3:40641 as auto-1692BB23-7061-440C-C2E0-071CF1905526 (p2, c1, k60).
+1708197094: Client auto-1692BB23-7061-440C-C2E0-071CF1905526 closed its connection.
+1708197427: mosquitto version 2.0.18 terminating
+1708197427: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1708197460: mosquitto version 2.0.18 starting
+1708197460: Config loaded from /mosquitto/config/mosquitto.conf.
+1708197460: Opening ipv4 listen socket on port 1883.
+1708197460: Opening ipv6 listen socket on port 1883.
+1708197460: mosquitto version 2.0.18 running
+1708197461: New connection from 172.19.0.1:36962 on port 1883.
+1708197461: New client connected from 172.19.0.1:36962 as mqtt-explorer-d16bc5a1 (p2, c1, k60).
+1708197461: New connection from 172.19.0.3:38431 on port 1883.
+1708197461: New client connected from 172.19.0.3:38431 as auto-A87FB15D-5D7F-70B4-224D-A9416A65E1C9 (p2, c1, k60).
+1708197474: Client auto-A87FB15D-5D7F-70B4-224D-A9416A65E1C9 closed its connection.
+1708198109: mosquitto version 2.0.18 terminating
+1708198109: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1708198182: mosquitto version 2.0.18 starting
+1708198182: Config loaded from /mosquitto/config/mosquitto.conf.
+1708198182: Opening ipv4 listen socket on port 1883.
+1708198182: Opening ipv6 listen socket on port 1883.
+1708198182: mosquitto version 2.0.18 running
+1708198182: New connection from 172.20.0.1:36970 on port 1883.
+1708198182: New client connected from 172.20.0.1:36970 as mqtt-explorer-d16bc5a1 (p2, c1, k60).
+1708198183: New connection from 172.20.0.3:43949 on port 1883.
+1708198183: New client connected from 172.20.0.3:43949 as auto-768919E9-A4A6-D139-0B79-831C4DF175A9 (p2, c1, k60).
+1708198506: Client auto-768919E9-A4A6-D139-0B79-831C4DF175A9 closed its connection.
+1708198507: mosquitto version 2.0.18 terminating
+1708198507: Saving in-memory database to /mosquitto/data//mosquitto.db.
