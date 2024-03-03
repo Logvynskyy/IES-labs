@@ -23,8 +23,15 @@ class StoreApiAdapter(StoreGateway):
         """
         try:
             # Convert the processed data batch to JSON
-            processed_data_json = [data.dict() for data in processed_agent_data_batch]
-
+            processed_data_json = []
+            for processed_data in processed_agent_data_batch:
+                agent_data_dict = processed_data.agent_data.dict()
+                # Convert timestamp to ISO format string
+                agent_data_dict['timestamp'] = agent_data_dict['timestamp'].isoformat()
+                processed_data_dict = processed_data.dict()
+                processed_data_dict['agent_data'] = agent_data_dict
+                processed_data_json.append(processed_data_dict)
+            
             # Make a POST request to the Store API endpoint
             response = requests.post(
                 f"{self.api_base_url}/processed_agent_data",

@@ -58,3 +58,60 @@
 1709419300: Client auto-1E7AABF7-29C1-0CDC-C7A2-129A90B2BB10 closed its connection.
 1709419302: mosquitto version 2.0.18 terminating
 1709419302: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1709475986: mosquitto version 2.0.18 starting
+1709475986: Config loaded from /mosquitto/config/mosquitto.conf.
+1709475986: Opening ipv4 listen socket on port 1883.
+1709475986: Opening ipv6 listen socket on port 1883.
+1709475986: mosquitto version 2.0.18 running
+1709475990: New connection from 192.168.0.3:45431 on port 1883.
+1709475990: New client connected from 192.168.0.3:45431 as auto-BB14723D-98C8-053E-C685-B7BB323E535C (p2, c1, k60).
+1709476930: Client auto-BB14723D-98C8-053E-C685-B7BB323E535C closed its connection.
+1709476932: mosquitto version 2.0.18 terminating
+1709476932: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1709492841: mosquitto version 2.0.18 starting
+1709492841: Config loaded from /mosquitto/config/mosquitto.conf.
+1709492841: Opening ipv4 listen socket on port 1883.
+1709492841: Opening ipv6 listen socket on port 1883.
+1709492841: mosquitto version 2.0.18 running
+1709492897: mosquitto version 2.0.18 terminating
+1709492897: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1709492931: mosquitto version 2.0.18 starting
+1709492931: Config loaded from /mosquitto/config/mosquitto.conf.
+1709492931: Opening ipv4 listen socket on port 1883.
+1709492931: Opening ipv6 listen socket on port 1883.
+1709492931: mosquitto version 2.0.18 running
+1709492935: New connection from 192.168.0.3:36063 on port 1883.
+1709492935: New client connected from 192.168.0.3:36063 as auto-BAFEE194-7241-42C3-3C41-5E1CBFE263B0 (p2, c1, k60).
+1709493310: Client auto-BAFEE194-7241-42C3-3C41-5E1CBFE263B0 closed its connection.
+1709493312: mosquitto version 2.0.18 terminating
+1709493312: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1709493479: mosquitto version 2.0.18 starting
+1709493479: Config loaded from /mosquitto/config/mosquitto.conf.
+1709493479: Opening ipv4 listen socket on port 1883.
+1709493479: Opening ipv6 listen socket on port 1883.
+1709493479: mosquitto version 2.0.18 running
+1709493483: New connection from 192.168.0.3:43137 on port 1883.
+1709493483: New client connected from 192.168.0.3:43137 as auto-4060989D-0452-3219-5C8B-971745B1903A (p2, c1, k60).
+1709493661: Client auto-4060989D-0452-3219-5C8B-971745B1903A closed its connection.
+1709493663: mosquitto version 2.0.18 terminating
+1709493663: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1709493680: mosquitto version 2.0.18 starting
+1709493680: Config loaded from /mosquitto/config/mosquitto.conf.
+1709493680: Opening ipv4 listen socket on port 1883.
+1709493680: Opening ipv6 listen socket on port 1883.
+1709493680: mosquitto version 2.0.18 running
+1709493683: New connection from 192.168.0.3:48623 on port 1883.
+1709493683: New client connected from 192.168.0.3:48623 as auto-4A2C4E01-BC05-A666-31F6-8327CF5C7D31 (p2, c1, k60).
+1709493926: Client auto-4A2C4E01-BC05-A666-31F6-8327CF5C7D31 closed its connection.
+1709493927: mosquitto version 2.0.18 terminating
+1709493927: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1709493949: mosquitto version 2.0.18 starting
+1709493949: Config loaded from /mosquitto/config/mosquitto.conf.
+1709493949: Opening ipv4 listen socket on port 1883.
+1709493949: Opening ipv6 listen socket on port 1883.
+1709493949: mosquitto version 2.0.18 running
+1709493953: New connection from 192.168.0.3:54911 on port 1883.
+1709493953: New client connected from 192.168.0.3:54911 as auto-01AE9651-78C4-233D-416F-E3470AC5C268 (p2, c1, k60).
+1709494350: Client auto-01AE9651-78C4-233D-416F-E3470AC5C268 closed its connection.
+1709494351: mosquitto version 2.0.18 terminating
+1709494351: Saving in-memory database to /mosquitto/data//mosquitto.db.
