@@ -1,7 +1,7 @@
 from paho.mqtt import client as mqtt_client
 import json
 import time
-from schema.aggregated_data_schema import AccelerometerSchema, GpsSchema, ParkingSchema
+from schema.aggregated_data_schema import AccelerometerSchema, GpsSchema, ParkingSchema, AggregatedDataSchema
 from file_datasource import FileDatasource
 import config
 
@@ -46,6 +46,9 @@ def run():
     while True:
         # Read data from datasource
         data = datasource.read()
+
+        # Publish aggregated data to MQTT topic
+        publish(client, config.MQTT_TOPIC, data, AggregatedDataSchema())
 
         # Publish accelerometer data to MQTT topic
         publish(client, config.MQTT_ACCELEROMETER_TOPIC, data.accelerometer, AccelerometerSchema())

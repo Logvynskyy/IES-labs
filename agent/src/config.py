@@ -12,6 +12,7 @@ USER_ID = 1
 # MQTT config
 MQTT_BROKER_HOST = os.environ.get("MQTT_BROKER_HOST") or "mqtt"
 MQTT_BROKER_PORT = try_parse(int, os.environ.get("MQTT_BROKER_PORT")) or 1883
+MQTT_TOPIC = os.environ.get("MQTT_TOPIC") or "agent_data_topic"
 MQTT_ACCELEROMETER_TOPIC = "acceletometer_topic"
 MQTT_GPS_TOPIC = "gps_topic"
 MQTT_PARKING_TOPIC = "parking_topic"
